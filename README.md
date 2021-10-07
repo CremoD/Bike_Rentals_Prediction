@@ -16,7 +16,7 @@ The analysis of past data, the discovery of some pattern and the predictions of 
 - How are bike shares distributed over weather condition?
 - How do temperature and wind affect the number of bike rentals?
 
-The detailed report can be consulted [here](Report.pdf)
+The detailed report can be consulted [here](Project_Report.pdf)
 
 ## Data
 - Data concerning the bike rentals usage in the city of London is retrieved from the government [data source](https://cycling.data.tfl.gov.uk)
