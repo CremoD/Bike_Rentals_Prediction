@@ -1,5 +1,8 @@
 # London bike rentals prediction model
 
+## Overview
+University project that aims at exploiting Data Analysis tools and methods, performing an analysis of past bike sharing services in the city of London and realizing a regression model for the prediction of future bike rentals. The project uses Spark as primary technology, IntelliJ as IDE and Java as programming language.
+
 ## Motivation
 Nowadays, as urbanization reaches unprecedented levels, road congestions and air pollution have become serious issues. Among the many solutions that have emerged in recent years, perhaps the most promising is represented by bike sharing. To be clear, bike sharing refers to rental schemes, whereby civilians can pick up, ride and drop off bicycles at numerous points across the city.
 
