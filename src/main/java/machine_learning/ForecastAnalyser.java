@@ -22,7 +22,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ForecastAnalyser {
-    private static final String api_key = "8b68074189987f8b317ecb78546e0171";
+    private static final String api_key = "api_key";
     private static final String location = "London";
     private static final String url_string = "http://api.openweathermap.org/data/2.5/forecast?q="+location+"&appid=" + api_key;
 
