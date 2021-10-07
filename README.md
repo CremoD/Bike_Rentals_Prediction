@@ -10,11 +10,13 @@ Starting from this good points, London is one of the cities most willing to use 
 For this purpose, this project aims at realizating such analysis and software for the forecasting of future rentals. the data regarding the number of bikes that were rented in London (from January 2012 to January 2015) are analyzed. Moreover, the work will be based on the hypothesis that the number of bike rentals are related to some variables like the hour of the day, period of the year and weather condition, and I will try to train a Machine Learning model to try to predict the future bike shares.
 
 The analysis of past data, the discovery of some pattern and the predictions of the future use could help the bike sharing general management (advertising, incentives or discounts for improve low bike shares, take full advantage of predicted high shares in a specific period of the year, improve service and bike availability, and many other useful management choices). Some questions that the city administration may want to have answered, and that will be answered by statistical analysis of past data are:
-• Are bike shares influenced by the type of day and period?
-• How are bike shares distributed over the hours?
-• How is the request for bike rentals during the periods of the year?
-• How are bike shares distributed over weather condition?
-• How do temperature and wind affect the number of bike rentals?
+- Are bike shares influenced by the type of day and period?
+- How are bike shares distributed over the hours?
+- How is the request for bike rentals during the periods of the year?
+- How are bike shares distributed over weather condition?
+- How do temperature and wind affect the number of bike rentals?
+
+The detailed report can be consulted [here](Report.pdf)
 
 ## Data
 - Data concerning the bike rentals usage in the city of London is retrieved from the government [data source](https://cycling.data.tfl.gov.uk)
