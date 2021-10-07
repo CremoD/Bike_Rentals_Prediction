@@ -1,0 +1,9 @@
+type_day,day_period,bikes_rented
+workday,Night,483041
+workday,Afternoon,6576167
+weekend,Morning,1132210
+weekend,Evening,1190028
+workday,Evening,4195308
+weekend,Afternoon,2937422
+workday,Morning,6270199
+weekend,Night,415217
